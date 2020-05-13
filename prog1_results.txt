@@ -1,0 +1,45 @@
+for multiplications
+
+	Loss by layers:
+	layer: 0 loss: 1096858884994026.8
+	layer: 1 loss:  452501575902953.5
+	layer: 2 loss:  211653022336417.78
+	layer: 3 loss:   72218826180762.02
+	layer: 4 loss:   69431166440046.59
+	layer: 5 loss:   69965836812130.71
+	layer: 6 loss:   69938366016756.125
+	layer: 7 loss:   70678205087455.64
+	layer: 8 loss:   72812634850092.64
+	layer: 9 loss:   72930237087744.0
+
+	num_neurons: 18 loss: 70285949227394.664
+	num_neurons: 36 loss: 69330149532342.68
+	num_neurons: 54 loss: 69618711550702.39
+	num_neurons: 72 loss: 69621848574682.73
+	num_neurons: 90 loss: 69748511852829.08
+	num_neurons: 108 loss: 69780337699743.336
+	num_neurons: 126 loss: 70061536201356.086
+	num_neurons: 144 loss: 70085797865953.69
+	num_neurons: 162 loss: 70131207367347.41
+
+	of all combinantions best loss : 69431166440046.59
+
+
+for addition: 
+
+	layer: 0 loss: 11762798.8772
+	layer: 1 loss: 0.6794579563558102
+	layer: 2 loss: 1.4259979943744838e-06
+
+	2202 9326 11528
+	1034 4180 5214
+	1932 8118 10050
+	7365 7738 15103
+	6220 3440 9660
+
+	[[11528.    ]
+	 [ 5213.9995]
+	 [10050.    ]
+	 [15102.998 ]
+	 [ 9660.    ]]
+

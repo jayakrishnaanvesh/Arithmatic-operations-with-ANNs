@@ -1,0 +1,31 @@
+for multiplication
+
+layer: 10 loss: 873948.5520756592
+layer: 11 loss: 297104.20553364337
+layer: 12 loss: 172113.85979454956
+layer: 13 loss: 172745.19072755013
+layer: 14 loss: 173508.7555684846
+layer: 15 loss: 174416.30092680396
+layer: 16 loss: 175191.3516586872
+layer: 17 loss: 175924.51571674782
+layer: 18 loss: 177101.5859545105
+layer: 19 loss: 178122.34186282294
+
+
+num_neurons: 4 loss: 180622.0620396672
+num_neurons: 8 loss: 187647.78812815057
+num_neurons: 12 loss: 189357.5299803383
+num_neurons: 16 loss: 192870.49597216872
+num_neurons: 20 loss: 194301.14523990673
+
+best 12 layers 4 neurons
+
+for addition :: 172113.85979454956
+
+[12,23],
+[197,283],
+[15,265],
+[1999,4444],
+[555,23]]
+
+[array([35.0032], dtype=float32), array([480.00308], dtype=float32), array([280.0031], dtype=float32), array([6443.0024], dtype=float32), array([578.00323], dtype=float32)]
